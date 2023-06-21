@@ -11,7 +11,7 @@
     border: 0.4rem solid var(--color-primary-variant);
 }
 .testimonial {
-    background: var(--color-bg-variant);
+    background: green;
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;
